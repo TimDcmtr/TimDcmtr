@@ -1,4 +1,4 @@
-<!-- Bannière stylisée -->
+<!-- Bannière -->
 <p align="center">
   <img src="https://i.imgur.com/yourBannerImage.png" alt="Banner - Tim D. aka leMecha" width="100%" />
 </p>
@@ -21,24 +21,24 @@
 
 ## 🧰 Stack & Outils
 <p>
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Config-333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Expert-2E3440?style=for-the-badge&logo=node.js&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/JavaScript-Confirmé-2E3440?style=for-the-badge&logo=javascript&logoColor=F7E018" />
+  <img src="https://img.shields.io/badge/Svelte-2E3440?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/Nuxt-2E3440?style=for-the-badge&logo=nuxt.js&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Windows-2E3440?style=for-the-badge&logo=windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
 ---
 
 ## 📌 Contact
 <p>
-  <img src="https://img.shields.io/badge/Discord-leMecha-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-leMecha-2E3440?style=for-the-badge&logo=discord&logoColor=5865F2" />
   <a href="https://www.linkedin.com/in/tim%C3%A9o-ducimetiere-9a8a3a321/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tim%20Ducimetiere-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tim%20Ducimetiere-2E3440?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <img src="https://img.shields.io/badge/VSCode-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux%20%7C%20Windows-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
