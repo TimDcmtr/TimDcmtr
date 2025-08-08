@@ -22,11 +22,11 @@
 ## 🧰 Stack & Outils
 <p align="center">
   <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=nodejs,js,python,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,html,css,js" height="45" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=svelte,nuxt,express,mongodb" height="45" />
   <!-- Outils & OS -->
-  <img src="https://skillicons.dev/icons?i=git,linux,windows,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" height="45" />
 </p>
 
 
