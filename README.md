@@ -20,16 +20,15 @@
 ---
 
 ## 🧰 Stack & Outils
-<p>
-  <img src="https://img.shields.io/badge/Node.js-Expert-2E3440?style=for-the-badge&logo=node.js&logoColor=3FB950" />
-  <img src="https://img.shields.io/badge/JavaScript-Confirmé-2E3440?style=for-the-badge&logo=javascript&logoColor=F7E018" />
-  <img src="https://img.shields.io/badge/Svelte-2E3440?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img src="https://img.shields.io/badge/Nuxt-2E3440?style=for-the-badge&logo=nuxt.js&logoColor=00DC82" />
-  <img src="https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Windows-2E3440?style=for-the-badge&logo=windows&logoColor=0078D6" />
-  <img src="https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<p align="center">
+  <!-- Langages -->
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,html,css" height="45" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=svelte,nuxt,express,mongodb" height="45" />
+  <!-- Outils & OS -->
+  <img src="https://skillicons.dev/icons?i=git,linux,windows,vscode" height="45" />
 </p>
+
 
 ---
 
