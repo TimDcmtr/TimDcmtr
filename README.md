@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://imgur.com/a/9uFERjA" alt="Banner - Tim D. aka leMecha" width="100%" />
+  <img src="https://i.imgur.com/sX4AuvI.png" alt="Banner - Tim D. aka leMecha" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey, je suis Tim D. <span style="opacity:0.7;">aka</span> <strong>leMecha</strong></h1>
