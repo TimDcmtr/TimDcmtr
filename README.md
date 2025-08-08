@@ -33,10 +33,10 @@
 ---
 
 ## 📌 Contact
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Discord-leMecha-2E3440?style=for-the-badge&logo=discord&logoColor=5865F2" />
   <a href="https://www.linkedin.com/in/tim%C3%A9o-ducimetiere-9a8a3a321/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tim%20Ducimetiere-2E3440?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tim%20Dcmtr-2E3440?style=for-the-badge&logo=minutemailer&logoColor=0A66C2" />
   </a>
 </p>
 
