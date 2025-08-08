@@ -22,12 +22,25 @@
 ## 🧰 Stack & Outils
 <p align="center">
   <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=nodejs,python,html,css,js" height="45" />
+  <img src="https://i.imgur.com/abc123.png" height="60" />
+  <img src="https://i.imgur.com/def456.png" height="60" />
+  <img src="https://i.imgur.com/ghi789.png" height="60" />
+  <img src="https://i.imgur.com/jkl012.png" height="60" />
+  <img src="https://i.imgur.com/mno345.png" height="60" />
+  
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=svelte,nuxt,express,mongodb" height="45" />
+  <img src="https://i.imgur.com/pqr678.png" height="60" />
+  <img src="https://i.imgur.com/stu901.png" height="60" />
+  <img src="https://i.imgur.com/vwx234.png" height="60" />
+  <img src="https://i.imgur.com/yz1234.png" height="60" />
+  
   <!-- Outils & OS -->
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" height="45" />
+  <img src="https://i.imgur.com/aaa111.png" height="60" />
+  <img src="https://i.imgur.com/bbb222.png" height="60" />
+  <img src="https://i.imgur.com/ccc333.png" height="60" />
+  <img src="https://i.imgur.com/ddd444.png" height="60" />
 </p>
+
 
 
 ---
